@@ -1,0 +1,22 @@
+html {
+  box-sizing: border-box;
+  font-size: 14px;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+body {
+  font-family: "Noto Sans JP", sans-serif;
+}
+
+#nprogress .bar {
+  background: #fa8c16;
+}
+
+.ant-layout .ant-picker-calendar-header {
+  padding-top: 0;
+}
